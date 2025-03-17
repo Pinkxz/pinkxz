@@ -7,6 +7,7 @@ Meus interesses são:
 - 💻 Programação Back-End
 - 🎮 Programação de Jogos
 - 🛴 Engines/Motores Gráficos
+- 🕹 Emuladores
 
 Tecnologias que uso:
 
