@@ -9,11 +9,17 @@ Meus interesses são:
 - 🛴 Engines/Motores Gráficos
 - 🕹 Emuladores
 
-Tecnologias que uso:
+Tecnologias e Ferramentas:
 
-- 👓 Linguagens de Programação: Java, C e futuramente C++.
-- 🧨 Frameworks Web: Spring.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pink-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"> 
+  <img align="center" alt="Pink-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">  
+  <img align="center" alt="Pink-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg">
 
+  <img align="center" alt="Pink-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg">
+  <img align="center" alt="Pink-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Pink-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinkxz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pinkxz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
