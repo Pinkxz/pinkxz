@@ -2,7 +2,7 @@
   
   Sou estudante de Ciência da Computação, e bastante interessado no mundo da tecnologia, principalmente por trás dos panos.
   
-  ### 💡 Interreses 
+  ### 💡 Interesses 
   
   - 💻 Programação Back-End
   - 🎮 Programação de Jogos
