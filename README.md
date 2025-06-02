@@ -1,6 +1,6 @@
   Prazer, me chamo Victor 🕹🎮
   
-  Sou estudante de Ciência da Computação, e bastante interessado no mundo da tecnologia, principalmente por trás dos panos.
+  Sou estudante de Ciências da Computação, e bastante interessado no mundo da tecnologia, principalmente por trás dos panos.
   
   ### 💡 Interesses 
   
